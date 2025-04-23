@@ -13,6 +13,7 @@ Objectives
 Tools Used
 - SQL (MySQL/PostgreSQL)
 
+Key Questions Answered
 - What are the top-selling products and categories?
 - Which time of day and days of the week see the most orders?
 - What’s the total revenue per category?
